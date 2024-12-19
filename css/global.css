@@ -1,0 +1,95 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.services__section-title {
+    font-size: 48px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.advantages__section-title {
+    font-size: 48px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.works__section-title {
+    font-size: 48px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.production__section-title {
+    font-size: 48px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.price__section-title {
+    font-size: 48px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.clients__section-title {
+    font-size: 48px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.team__section-title {
+    font-size: 48px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.about__section-title {
+    font-size: 48px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.doing__section-title {
+    font-size: 48px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.history__section-title {
+    font-size: 48px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.advaninfo__section-title {
+    font-size: 48px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.contacts__section-title {
+    font-size: 40px;
+    font-weight: 500;
+    text-align: start;
+    margin-bottom: 60px;
+}
+
+.portfolio__section-title {
+    font-size: 40px;
+    font-weight: 500;
+    text-align: start;
+    margin-bottom: 60px;
+}

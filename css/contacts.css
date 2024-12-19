@@ -1,0 +1,147 @@
+.contacts-title {
+    margin-top: 60px;
+    position: relative;
+}
+
+
+.work-schedule {
+    display: flex;
+    /* align-items: flex-start; */
+    gap: 10px;
+}
+
+.work-schedule-content h2 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 400;
+    color: #A4A4A4;
+}
+
+.work-schedule-content p {
+    margin: 4px 0 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.work-schedule-content span {
+    margin: 4px 0 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 2.5;
+}
+
+
+
+
+
+.phone-schedule {
+    display: flex;
+    margin-top: 36px;
+    /* align-items: flex-start; */
+    gap: 10px;
+}
+
+
+.phone-schedule-content h2 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 400;
+    color: #A4A4A4;
+}
+
+.phone-schedule-content p {
+    margin: 4px 0 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+
+
+
+
+
+.address-schedule {
+    display: flex;
+    margin-top: 36px;
+    /* align-items: flex-start; */
+    gap: 10px;
+}
+
+
+.address-schedule-content h2 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 400;
+    color: #A4A4A4;
+}
+
+.address-schedule-content p {
+    width: 282px;
+    margin: 4px 0 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+
+
+.map-image {
+    margin-top: -385px;
+    margin-left: 432px;
+}
+
+
+
+
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 60px;
+}
+
+.footer-position {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 150px;
+}
+
+.footer div {
+    flex: 1;
+    min-width: 200px;
+    margin: 10px;
+}
+
+.footer h3 {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.footer p, .footer ul, .footer li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    line-height: 1.6;
+    color: #BCBBBB;
+}
+
+.footer ul {
+    margin-top: 10px;
+    color: #BCBBBB;
+}
+
+.footer a {
+    color: #aaa;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    color: #fff;
+}
