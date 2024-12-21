@@ -40,3 +40,58 @@
     transform: scale(1.1);
     color: black;
 }
+
+
+/* .menu {
+    display: none;
+} 
+
+@media screen and (max-width: 991px) {
+    .header {
+        position: fixed;
+        top: 0;
+        z-index: 3;
+        width: 100%;
+        background-color: white;
+    }
+    
+    .header__nav {
+        display: none;
+    }
+
+    .header__burger {
+        display: block;
+    }
+
+    .menu {
+        position: absolute;
+        top: 0;
+        right: -110%;
+
+        display: block;
+
+        width: 70%;
+        height: 100vh;
+        background-color: aqua;
+        transition: right 0.5s;
+    }
+
+    .menu.active {
+        right: 0;
+    }
+    
+    .menu__wrapper{
+        padding: 96px 16px 0 16px;
+    }
+    
+    .menu__nav {
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .menu__nav a {
+        font-size: 24px;
+        font-weight: 600;
+    }
+} */
