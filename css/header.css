@@ -46,7 +46,7 @@
     display: none;
 } 
 
-@media screen and (max-width: 991px) {
+@media screen and (max-width: 320px) {
     .header {
         position: fixed;
         top: 0;
@@ -66,18 +66,18 @@
     .menu {
         position: absolute;
         top: 0;
-        right: -110%;
+        left: -110%;
 
         display: block;
 
         width: 70%;
         height: 100vh;
         background-color: aqua;
-        transition: right 0.5s;
+        transition: left 0.5s;
     }
 
     .menu.active {
-        right: 0;
+        left: 0;
     }
     
     .menu__wrapper{

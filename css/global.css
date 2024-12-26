@@ -3,8 +3,11 @@
     margin: 0 auto;
 }
 
+body {
+    font-family: Arial, sans-serif;
+}
 
-/* @media screen and (max-width: 1200px) {
+/* @media screen and (max-width: 320px) {
     .container {
         padding: 0 20px;
     }
